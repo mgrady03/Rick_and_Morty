@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.Scanner;
 import java.Random;
 
-public class Forest{
+public class Game{
   
     private Scanner scan = new Scanner(System.in); 
 
