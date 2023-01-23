@@ -1,0 +1,12 @@
+forwards
+forward
+up
+down 
+east
+west
+north
+south 
+backward
+backwards 
+left 
+right 
