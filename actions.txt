@@ -1,1 +1,24 @@
+walk
+run 
+enter
+swim 
+open 
+close 
+skip 
+cry 
+kill 
+paint 
+bark 
+shit 
+punch 
+fight 
+trim 
+jump 
+hop 
+shoot 
+pick 
+sing 
+dance
+stare 
+listen 
 
