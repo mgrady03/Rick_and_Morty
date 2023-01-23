@@ -6,7 +6,7 @@ Basically like its giving you random scenerios and you have to make a decision a
 ex: 
 
 "You are staring at a forest" 
->>go north 
+go north 
 "You stumble upon a bear carcus" 
->>kick it
+kick it
 "It was actually alive you are now dead"
